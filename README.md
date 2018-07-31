@@ -20,9 +20,7 @@ Your contribution will be very helpful to improve Bootstrap++. Make a fix and su
 
 # Thanks
 Bootstrap <a href="https://github.com/orgs/twbs/people" target="_blank">core team</a> and <a href="https://github.com/twbs/bootstrap/graphs/contributors" target="_blank">contributors</a> for <a href="http://www.getbootstrap.com/" target="_blank">Bootstrap</a>, <a href="http://www.flatcolorsui.com/" target="_blank">Flat Colors UI</a> for Best Flat UI Colors, 
-<a href="https://materializecss.com/" target="_blank">Materialize</a> for Material Color Palette, 
-<a href="https://fontawesome.com/v4.7.0/" target="_blank">Font Awesome</a> and <a href="https://ionicons.com/" target="_blank">Ionicons</a> for Icons,  
-<a href="https://fonts.google.com/" target="_blank">Google</a> for Fonts.
+<a href="https://materializecss.com/" target="_blank">Materialize</a> for Material Color Palette, <a href="https://fontawesome.com/v4.7.0/" target="_blank">Font Awesome</a> and <a href="https://ionicons.com/" target="_blank">Ionicons</a> for Icons,  <a href="https://fonts.google.com/" target="_blank">Google</a> for Fonts.
  
 # Copyright and License  
 Copyright (c) 2017-2018 <a href="http://arafkarim.github.io">Araf Karim</a><br/>
