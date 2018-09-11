@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrapplusplus.com/">
-    <img src="images/bootstrap-plus-plus.jpg" alt="Bootstrap++ logo" width="100" height="100">
+    <img src="https://bootstrapplusplus.com/images/bootstrap-plus-plus-social.png" alt="Bootstrap++ logo" width="100" height="100">
   </a>
 </p>
 <h3 align="center">Bootstrap++</h3>
